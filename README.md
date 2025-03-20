@@ -3,7 +3,7 @@
 This repository showcases my solutions and progress in various **Kaggle competitions**, including notebooks that have achieved top ranks among thousands of participants.
 
 ## 🏅 Highlights
-- Multiple top 10% and top 5% leaderboard ranks
+- Multiple top 20% and top 5% leaderboard ranks
 - Real-world problem solving using regression, classification, and advanced ML pipelines
 - Blend of EDA, feature engineering, and modeling
 
