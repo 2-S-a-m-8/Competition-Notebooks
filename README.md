@@ -20,7 +20,7 @@ This repository showcases my solutions and progress in various **Kaggle competit
 - Learn from code structure, EDA, feature selection, and modeling techniques.
 
 ## 📎 Note
-- Datasets are from respective Kaggle competition pages.
+- Datasets are from respective Kaggle or Hackerearth competition pages.
 - All notebooks are shared for **learning and reproducibility**.
 
 ## 🙌 Stay Connected
